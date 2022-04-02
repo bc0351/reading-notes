@@ -2,10 +2,6 @@
 
 Github Pages site for Code 201 reading notes.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 # Code 201 Reading Notes
 
 1. Reading Note 1
