@@ -1,8 +1,8 @@
-## Code Fellows Github Page
+# Code Fellows Github Page
 
 Github Pages site for Code 201 reading notes.
 
-# Code 201 Reading Notes
+### Code 201 Reading Notes
 
 1. Reading Note 1
 2. Reading Note 2
