@@ -4,7 +4,7 @@ Github Pages site for Code 201 reading notes.
 
 ### Code 201 Reading Notes
 
-1. ["Class 01 Reading Notes"](class-01.md)
+1. [Class 01 Reading Notes](class-01.md)
 2. Class 02 Reading Notes
 3. Class 03 Reading Notes
 4. Class 04 Reading Notes
