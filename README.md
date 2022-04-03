@@ -4,18 +4,18 @@ Github Pages site for Code 201 reading notes.
 
 ### Code 201 Reading Notes
 
-1. Reading Note 1
-2. Reading Note 2
-3. Reading Note 3
-4. Reading Note 4
-5. Reading Note 5
-6. Reading Note 6
-7. Reading Note 7
-8. Reading Note 8
-9. Reading Note 9
-10. Reading Note 10
-11. Reading Note 11
-12. Reading Note 12
-13. Reading Note 13
-14. Reading Note 14
-15. Reading Note 15
+1. ["Class 01 Reading Notes"](class-01.md)
+2. Class 02 Reading Notes
+3. Class 03 Reading Notes
+4. Class 04 Reading Notes
+5. Class 05 Reading Notes
+6. Class 06 Reading Notes
+7. Class 07 Reading Notes
+8. Class 08 Reading Notes
+9. Class 09 Reading Notes
+10. Class 10 Reading Notes
+11. Class 11 Reading Notes
+12. Class 12 Reading Notes
+13. Class 13 Reading Notes
+14. Class 14 Reading Notes
+15. Class 15 Reading Notes
