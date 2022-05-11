@@ -23,3 +23,7 @@
 3. We re-render an application when the state changes.
 
 4. We can store counter variables in State.
+
+# Things I want to Know More About
+
+...
