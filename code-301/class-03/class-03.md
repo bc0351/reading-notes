@@ -60,4 +60,4 @@
 
 ## Things I want to know more about
 
-    - Time penalties from all this abstraction when dealing with big data; how ReactJS compares to AngularJS in this regard.
+- Time penalties from all this abstraction when dealing with big data; how ReactJS compares to AngularJS in this regard.
