@@ -36,7 +36,7 @@
 
 6. Which type of database is best for scalability?
 
-    > Relational, e.g. PostgreSQL
+    > Non-relational
 
 ## Videos
 
