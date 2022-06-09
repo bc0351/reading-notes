@@ -1,6 +1,7 @@
 # Notes
 
 ## Prep: SQL Practice
+
 ```
 I am well-versed in SQL.
 ```
