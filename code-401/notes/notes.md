@@ -2,10 +2,10 @@
 
 ## Prep: Practice in the Terminal
 
-### **The Command Line**
+### The Command Line
 
   ```
-      A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+  A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
   ```
 ### Basic Navigation
 
