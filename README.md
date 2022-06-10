@@ -46,6 +46,7 @@ N/A
 
 * [Prep: Practice in the Terminal](./code-401/prep-terminal/notes.md)
 * [Prep: Introduction to SQL](./code-401/prep-sql/notes.md)
+* [Prep: Software Engineering Reading](./code-401/prep-engr/notes.md)
 
 01. [Class 01 Reading Notes](./code-401/class-01/class-01.md)
 02. [Class 02 Reading Notes](./code-401/class-02/class-02.md)
