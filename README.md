@@ -44,7 +44,8 @@ N/A
 
 ## Code 401 - Advanced Software Development
 
-- [Notes](./code-401/notes/notes.md)
+* [Prep: Practice in the Terminal](./code-401/prep-terminal/notes.md)
+* [Prep: Introduction to SQL](./code-401/prep-sql/notes.md)
 
 01. [Class 01 Reading Notes](./code-401/class-01/class-01.md)
 02. [Class 02 Reading Notes](./code-401/class-02/class-02.md)
