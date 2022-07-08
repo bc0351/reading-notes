@@ -30,9 +30,9 @@ Review the Submission Instructions for guidance on completing and submitting thi
 
 1. Describe how to use SQS and SNS in a “fanout” pattern.
 
-  ```
-  messages can be published to an SNS topic with SQS queues as subscribers.
-  ```
+    ```
+    messages can be published to an SNS topic with SQS queues as subscribers.
+    ```
 
 2. Explain how “push notifications” work, using SNS.
 
