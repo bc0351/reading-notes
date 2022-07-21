@@ -12,15 +12,15 @@ Reading
 
 1.  Name an alternative to the `useState` Hook.
 
-  ```
-  useReducer
-  ```
+    ```
+    useReducer
+    ```
 
 2.  Why might the `useReducer` Hook be preferable to the `useState` Hook?
 
-  ```
-  useReducer is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one. useReducer also lets you optimize performance for components that trigger deep updates because you can pass dispatch down instead of callbacks.
-  ```
+    ```
+    useReducer is usually preferable to useState when you have complex state logic that involves multiple sub-values or when the next state depends on the previous one. useReducer also lets you optimize performance for components that trigger deep updates because you can pass dispatch down instead of callbacks.
+    ```
 
 3.  What are two ways to set the initial state?
 
